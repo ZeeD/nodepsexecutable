@@ -2,7 +2,7 @@ def nodepsexecutable() -> None:
     print('Hello world!')
 
 
-def main()->None:
+def main() -> None:
     nodepsexecutable()
 
 
